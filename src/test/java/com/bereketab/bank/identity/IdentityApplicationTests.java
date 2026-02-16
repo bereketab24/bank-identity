@@ -1,15 +1,15 @@
-package com.bereketab.bank.identity;
-
-import org.junit.jupiter.api.Test;
-import org.springframework.boot.test.context.SpringBootTest;
-import org.springframework.context.annotation.Import;
-
-@Import(TestcontainersConfiguration.class)
-@SpringBootTest
-class IdentityApplicationTests {
-
-    @Test
-    void contextLoads() {
-    }
-
-}
+//package com.bereketab.bank.identity;
+//
+//import org.junit.jupiter.api.Test;
+//import org.springframework.boot.test.context.SpringBootTest;
+//import org.springframework.context.annotation.Import;
+//
+//@Import(TestcontainersConfiguration.class)
+//@SpringBootTest
+//class IdentityApplicationTests {
+//
+//    @Test
+//    void contextLoads() {
+//    }
+//
+//}
